@@ -2,6 +2,17 @@ import streamlit as st
 import os
 from bia import gerar_dicionario_word
 from pine import atualizar_planilha
+from flask import Flask, render_template
+
+app = Flask(__name__)
+
+@app.route("/")
+def home():
+    data = {"name": "World"}
+    return render_template("index.html", data=data)
+
+    if __name__ == "__main__":
+        app.run(debug=True)
 
 st.set_page_config(page_title="Ferramentas CKAN – BIA & PINE", layout="wide")
 st.title("🔗 Ferramentas CKAN – BIA & PINE")
