@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "biapine",
+  "private_key_id": "da6d1ce3f293e603e2832eb4dd98cfcbaf0dc00c",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDBBuEH5SFfssHR\nQYr/68aEwRfn386UidhyGVmS7O4/gur5q38V7REXzNAvy6TfKSdzy0FT4NNHRCZa\n38TyqLTA3F3WcgMCeFsaA0npmofLK/zmzXXnA3l35TXmHaY+xMOy4Skgno+DfN4f\nsjtr/pQ+HowhzYcYpjCAKWoMgJU/8mqI8gYn5A3oPZo1R5kstYa0PXTACbEx4/4p\njZrCgJ7+3x6z8cMuNmZW9WbmgkiKmmgXIqcY5wrJP+a+VuC+wo9KexkYGzbn8439\n6BSKse2gekBbDqaMLDyugQsBk4moxsGCRtiM79jpFlmDUxpgC8TXWvY/vdFXuzUc\nqHtpskPHAgMBAAECggEATAIX8YJt2l+rB2neQLlIgjUA41sTXxVKqF9IEN2AUX0N\nZwP7dphTz0HkxrVTdlafxO6ICm3w9FKnIciUppL9HiaIQu3BNqNLCFq8K6MgjsYC\n/6VvJGkPV0FoMHWDZZsYjqMwDTqyu22bj/KgiH2GRVHFD3h9lpy2Y3krW8H0Q2nT\nHKMI0kfM6X2Zz687SZe8cAr0XCEM4u+elzEmzuDpgUMH9Ashg1705uMfrtiwhTk5\n4dgFu1IbnMtT8QaYVoHtnWXRhvMXMQ/c5ScVeJeRUNJ24wsHbnv5wpnYSa+UVRYS\nNAbmBfrGglKGDMzAxr0OVMz9lnpM6BXbH0MpfONMTQKBgQD4MXdk3TGRkmwZMwOE\nebUYAILT63ihUrImuVOCA9YFNPw43IDsn4FmCDxWEOUXEXFF1wrUuI82GEbRd8oU\niWKqehZRjB5Bl+ZXA4IBqUVHSrz5s5yLNBctNKjLBV9DTYePnS94GsB///WoljyN\npvtaUTPLOEcNRgqvd/fHjszDMwKBgQDHGTHpezg3DRrTEa5g8il3VGYpGvHhgEPv\nclUg7GuOMgVeHFWOvybM7vhUaiMjna27rpj+e20dZA8aZpTMrHijUvTHVz9TlK1x\nVlPQlqrDvmmHiSBKwalbVpfQ2KrMcC8WQcC67CSonJ1TuEBSbZ/UHmMFejWfXcXv\n7gad9g89HQKBgH1cDuAlUToj6PG5cJdjGfMrnukHUIC7Ujx48xMCeQFcR+E4ju31\nithMZJ1cHzpNlxcdjNzw83TxQiPfC3TgB7PvwoIh8c5TuQZOQUYxh0qBF35QGEu/\nXc15gaA58GoAKO6DCEzzxjNgx2YFrEQoCWEPDsggftLXg+IpCEAFgqs9AoGAHVD2\nany8UE7brkyiMqA1vt5slIzlJOEwH6fkJQ7q32s6Ixtk9bnryq09X6CpP+tN057n\n5EDkVjmPh8GnE2Qp91KVvGx6ZKI1z8R4XvRwfJYjD9P/L0LI3ywm+peMvsGeDVbt\nPBjdZP56pAMzZW/C4wb+aaYPE0JJjQStcMD0iXkCgYEAyWKljf1CHqxMDi8VuJEc\njTc+neJh7Lu6xV6eoWHaMIIE0dVI9btBwiZa9OzH8QUoWJyDFdx7sZbtFKfjs2ar\n81MDVIyQyRS3Ag5IPZVknQSaSZ97wt+8jcL6Hk7dikKXXc2LoaOo2zhglSjq10Tb\n+zd7YKlSA1t6DF3R6BUXEJU=\n-----END PRIVATE KEY-----\n",
+  "client_email": "pine-service@biapine.iam.gserviceaccount.com",
+  "client_id": "110384320175142970782",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/pine-service%40biapine.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
